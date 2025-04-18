@@ -15,12 +15,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=UsmanGhafoor42.UsmanGhafoor42&"  />
-</div>
-
-###
-
 <h1 align="center">Hello World👋 I'm Usman Ghafoor</h1>
 
 ###
